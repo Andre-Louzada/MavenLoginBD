@@ -1,0 +1,5 @@
+com\meusistema\model\UsuarioDAO.class
+com\meusistema\App$1.class
+com\meusistema\view\TelaLogin.class
+com\meusistema\App.class
+com\meusistema\model\DatabaseConnection.class
